@@ -1,4 +1,6 @@
 Título: Alura Midi - Instrumento Musical Digital
+---
+
 ![image](https://github.com/user-attachments/assets/2dec91a8-3f98-4e6f-8a3f-3369ab9b8dc2)
 
 
